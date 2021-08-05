@@ -12,15 +12,16 @@
 <a href="https://github.com/lucasdepessoa/"><img src="https://img.shields.io/github/followers/lucasdepessoa?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a></p>
 
 
-I'm a full stack software engineer student. I love programming, traveling and to learn about new ideais.
+<p>I'm a full stack software developer student. I love programming, traveling and to learn about new ideas. 
+Everything in the universe is here to be explored, known and improved upon.</p>
+<p>Enjoy your heart, your brain, your life, dream and create!</p>
+
+<br>
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdepessoa&show_icons=true&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdepessoa&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-<hr>
-<p>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdepessoa&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdepessoa&theme=dracula"/>
 </p>
