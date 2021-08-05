@@ -18,7 +18,7 @@
 Everything in the universe is here to be explored, known and improved upon.</p>
 <p>Enjoy your heart, your brain, your life, dream and create!</p>
 
-#### ⚡ our little world
+#### ⚡ Our little world
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
