@@ -11,7 +11,7 @@
 ## Glad to see you here!
 
 <p><img src="http://views.whatilearened.today/views/github/lucasdepessoa/views.svg"/> 
-<a href="https://github.com/lucasdepessoa/"><img src="https://img.shields.io/github/followers/lucasdepessoa?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a></p>
+<a href="https://github.com/lucasdepessoa?tab=followers"><img src="https://img.shields.io/github/followers/lucasdepessoa?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a></p>
 
 ### About me 😄
 <p>I'm a full stack software developer student. I love programming, traveling and to learn about new ideas. 
