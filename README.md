@@ -4,7 +4,6 @@
 <p>CTRL + CLICK to open in a new page.</p>
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn)](https://linkedin.com/in/lucasdepessoa)
-[![My Resume](https://img.shields.io/static/v1?label=&message=My%20Resume&color=black&style=flat-square&logo=heroku)](https://curriculum-lpessoa.herokuapp.com)
 
  How to reach me: &nbsp;&nbsp; <a href="mailto:lucasdepessoa@gmail.com">📫</a>
 
