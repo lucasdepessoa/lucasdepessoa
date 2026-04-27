@@ -51,7 +51,6 @@ How to reach me: &nbsp;&nbsp; <a href="mailto:engineer.lucasdepessoa@gmail.com">
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![H2](https://img.shields.io/badge/h2-%23007ACC.svg?style=for-the-badge&style=for-the-badge&logoColor=white)
 
 #### 📈 My GitHub Stats
 <p>
