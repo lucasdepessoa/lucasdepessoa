@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn)](https://linkedin.com/in/lucasdepessoa)
 
- How to reach me: &nbsp;&nbsp; <a href="mailto:lucasdepessoa@gmail.com">📫</a>
+How to reach me: &nbsp;&nbsp; <a href="mailto:engineer.lucasdepessoa@gmail.com">📫</a>
 
 ## Glad to see you here!
 
@@ -13,9 +13,7 @@
 <a href="https://github.com/lucasdepessoa?tab=followers"><img src="https://img.shields.io/github/followers/lucasdepessoa?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a></p>
 
 ### About me 😄
-<p>I'm a full stack software developer student. I love programming, traveling and to learn about new ideas. 
-Everything in the universe is here to be explored, known and improved upon.</p>
-<p>Enjoy your heart, your brain, your life, dream and create!</p>
+<p>Senior Software Engineer with 9+ years of experience building high-volume distributed systems across healthtech, logistics, and retail.</p>
 
 #### ⚡ Our little world
 
@@ -39,6 +37,14 @@ Everything in the universe is here to be explored, known and improved upon.</p>
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-%2300ADD8.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Observability](https://img.shields.io/badge/observability-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/gpt-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
