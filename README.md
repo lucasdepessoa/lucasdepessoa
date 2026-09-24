@@ -81,4 +81,5 @@ Public projects are on the way — this section will list them as they land.
 
 ### Coding time (WakaTime, last 7 days)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdepessoa&layout=compact&hide_border=true&theme=default&langs_count=8" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
