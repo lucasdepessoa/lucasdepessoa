@@ -72,13 +72,6 @@ Public projects are on the way — this section will list them as they land.
 
 ---
 
-## Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdepessoa&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdepessoa&layout=compact&hide_border=true&langs_count=8&theme=default" />
-</p>
-
 ### Coding time (WakaTime, last 7 days)
 
 <!--START_SECTION:waka-->
