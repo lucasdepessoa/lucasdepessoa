@@ -1,63 +1,84 @@
+# Lucas Pessoa
 
-## Hi there, I'm Lucas Pessoa 👋
+**Senior Software Engineer · Java · Spring Boot · AWS · Event-Driven Microservices**
 
-<p>CTRL + CLICK to open in a new page.</p>
+I build and run backends that cannot go down: healthcare platforms handling sensitive data, logistics integrated with Brazil's national postal service, smart coolers with nationwide traffic spikes. 9+ years across healthtech, logistics, retail and financial services, working from domain modeling to production incidents.
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn)](https://linkedin.com/in/lucasdepessoa)
+Currently deepening **Java 25** and **Kotlin**, and preparing for the **AWS Solutions Architect Associate** and **CKAD** certifications. Open to remote roles in Europe and other international markets, and to relocation.
 
-How to reach me: &nbsp;&nbsp; <a href="mailto:engineer.lucasdepessoa@gmail.com">📫</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasdepessoa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasdepessoa)
+[![Email](https://img.shields.io/badge/Email-engineer.lucasdepessoa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:engineer.lucasdepessoa@gmail.com)
 
-## Glad to see you here!
+---
 
-<p><img src="http://views.whatilearened.today/views/github/lucasdepessoa/views.svg"/> 
-<a href="https://github.com/lucasdepessoa?tab=followers"><img src="https://img.shields.io/github/followers/lucasdepessoa?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a></p>
+## What I work with
 
-### About me 😄
-<p>Senior Software Engineer with 9+ years of experience building high-volume distributed systems across healthtech, logistics, and retail.</p>
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### ⚡ Our little world
+**Architecture & messaging**
+![Microservices](https://img.shields.io/badge/Microservices-00ADD8?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-5C2D91?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS%2FSNS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![REST](https://img.shields.io/badge/REST-000000?style=flat-square)
+![Keycloak](https://img.shields.io/badge/Keycloak_%2F_OAuth_2.0-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Cloud & operations**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_(EKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Frontend (when needed)**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+**AI-assisted development**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![REST API](https://img.shields.io/badge/rest%20api-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-%2300ADD8.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Observability](https://img.shields.io/badge/observability-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+---
 
-![OpenAI](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GPT](https://img.shields.io/badge/gpt-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+## Selected work
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Most of my production work lives in private repositories. A few things I have shipped:
 
-#### 📈 My GitHub Stats
+- **Healthtech platform rewrite** — sole bridge between a Java 8 / Spring Boot monolith and a new multi-tenant platform; designed the data migration (idempotent orchestrator, dry-run, guardrails) with no loss in production; integrations with payments, labs, pharmacies and telemedicine; SSO via Keycloak; EKS + Terraform + Grafana/Sentry.
+- **Monolith to microservices** — extracted CRM and finance domains into Java 17 services at a smart-cooler startup, with RabbitMQ absorbing nationwide event bursts.
+- **Legacy modernization** — migrated a bank's internal API from SOAP/XML to REST without disrupting consumers; modernized Java EE (DAO, Value Objects, Session Façade) to Spring Boot.
+
+Public projects are on the way — this section will list them as they land.
+
+---
+
+## Activity
+
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdepessoa&show_icons=true&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdepessoa&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
- 
-### 📈 Last 7 Days
- 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdepessoa&theme=dracula"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdepessoa&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdepessoa&layout=compact&hide_border=true&langs_count=8&theme=default" />
 </p>
+
+### Coding time (WakaTime, last 7 days)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdepessoa&layout=compact&hide_border=true&theme=default&langs_count=8" />
