@@ -75,4 +75,13 @@ Public projects are on the way — this section will list them as they land.
 ### Coding time (WakaTime, last 7 days)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 September 2026 - To: 24 September 2026
+
+Total Time: 1 hr 13 mins
+
+Java   1 hr 13 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
