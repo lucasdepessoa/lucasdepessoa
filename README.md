@@ -1,6 +1,6 @@
 # Lucas Pessoa
 
-**Senior Software Engineer · Java · Spring Boot · AWS · Event-Driven Microservices**
+**Software Engineer · Java · Spring Boot · AWS · Event-Driven Microservices**
 
 I build and run backends that cannot go down: healthcare platforms handling sensitive data, logistics integrated with Brazil's national postal service, smart coolers with nationwide traffic spikes. 9+ years across healthtech, logistics, retail and financial services, working from domain modeling to production incidents.
 
