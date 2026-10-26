@@ -77,12 +77,12 @@ Public projects are on the way — this section will list them as they land.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Total Time: 5 hrs 42 mins
+Total Time: 4 hrs
 
-Java              5 hrs 29 mins         ████████████████████████░   96.25 %
-Java Properties   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Java              3 hrs 47 mins         ███████████████████████▓░   94.66 %
+Java Properties   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
